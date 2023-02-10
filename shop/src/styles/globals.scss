@@ -1,0 +1,18 @@
+:root {
+  --white: #fff;
+  --black: #000;
+  --gray: #F5F5F5;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  text-decoration: none;
+  outline: none;
+  list-style: none;
+}
+
+html {
+  background-color: var(--white);
+}
